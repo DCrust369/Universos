@@ -1,9 +1,6 @@
 // SPDX-License-Identifier: GPL-3.0-or-later OR Apache-2.0 OR MIT
 // Copyright (c) 2026 DCrust
 // VortexShield-kernel - Focused on Cybersecurity and Pentesting
-
-const cryptografy = @import("cryptografy");
-
 pub fn main () void {
     .const key = "computador";
     .const binary: i32 = "0b1100011011011110110110101110000011101010111010001100001011001000110111101110010";
